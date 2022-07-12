@@ -1,20 +1,9 @@
-### Hi there 👋
+### Ciao, dai un'occhiata al mio profilo 👋
+
+- Chi sono? 🤔
+Studente di 17 anni - Java Developer - Sviluppatore di plugins per [Minecraft](https://www.minecraft.net/it-it)
+
+- Cosa faccio? ✨
+Studio ad un Liceo Scienze Applicate
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulsih&show_icons=true&count_private=true)
-
-
-<!--
-**Pulsih/Pulsih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
