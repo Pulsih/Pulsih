@@ -16,4 +16,4 @@ Studio ad un Liceo Scienze Applicate
 
 ### Altri progetti 🌟
 
-- ![Spigot Resources](https://www.spigotmc.org/resources/authors/pulsi_.1061803/)
+- [Spigot Resources](https://www.spigotmc.org/resources/authors/pulsi_.1061803/)
