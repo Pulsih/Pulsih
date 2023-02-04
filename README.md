@@ -3,8 +3,8 @@
 - Who am I? 🤔 
 17 years old student - Java Developer - [Minecraft](https://www.minecraft.net/it-it) Pluginner
 
-- What I do? ✨ 
-I am currently studing at a Applied Sciences Lyceum
+- What do I do? ✨ 
+I am currently studing at an Applied Sciences Lyceum
 
 - Where do i live? 🌍 
 Italy
