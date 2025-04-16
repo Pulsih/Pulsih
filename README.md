@@ -1,7 +1,7 @@
 ### Hi, take a look at my profile 👋
 
 - Who am I? 🤔 
-18 years old student - Indie Developer - [Minecraft](https://www.minecraft.net/it-it) Pluginner
+20 years old student - Indie Developer - [Minecraft](https://www.minecraft.net/it-it) Pluginner
 
 - What do I do? ✨ 
 I am currently studing at an Applied Sciences Lyceum while working on a personal project to develop a new game.
